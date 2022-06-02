@@ -1,0 +1,19 @@
+
+
+.BarraNavegacion{
+    background-color:#211A1D ;
+    
+}
+.text{
+    color:rgb(255, 255, 255);
+}
+.textTitle{
+color: #F8F0FB;
+}
+.badgroundUl{
+    background-color: black;
+}
+
+.onCursor:hover{
+    background-color: #877EF3;
+}
